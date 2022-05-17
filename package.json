@@ -3,10 +3,12 @@
   "version": "1.0.1",
   "description": "A babel plugin for NukeJS.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "Judah ov Avadom"
 }
