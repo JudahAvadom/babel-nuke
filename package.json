@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-nuke",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "A babel plugin for NukeJS.",
   "main": "index.js",
   "license": "MIT",
