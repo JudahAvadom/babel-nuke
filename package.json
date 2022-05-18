@@ -1,5 +1,5 @@
 {
-  "name": "@babel/plugin-nuke",
+  "name": "babel-plugin-nuke",
   "version": "1.0.1",
   "description": "A babel plugin for NukeJS.",
   "main": "index.js",
@@ -10,5 +10,16 @@
   "keywords": [
     "babel-plugin"
   ],
-  "author": "Judah ov Avadom"
+  "author": "devmon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudahAvadom/babel-nuke.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JudahAvadom/babel-nuke/issues"
+  },
+  "homepage": "https://github.com/JudahAvadom/babel-nuke#readme"
 }
